@@ -1,5 +1,5 @@
 # ticket_bot_example
-[This code is ticket bot exmple]\n
+[This code is ticket bot exmple]</br>
 This code has three events\n
 First is on_message for commend to make ticket channel\n
 Second is on_raw_reaction_add for add emoji to make ticket channel\n
